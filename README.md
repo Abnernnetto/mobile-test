@@ -1,0 +1,1 @@
+Este código é referente a um desafio proposto pela cadeira de Testes Mobile para Automação de Testes, da Pós-Graduação em Automação de Testes De Software ministrado pelo Julio de Lima, onde o intuito era criar testes Mobile Android com a utilização do BABEL, Framework WEBDRIVERIO, APPIUM e UIAutomator2 um sistema em JavaScript com a estrutura de testes PageObjects.
